@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevi5&label=Profile%20views&color=0e75b6&style=flat" alt="kevi5" /> </p>
 
-- 🔭 I’m currently working on **LDA**
+- 🔭 I’m currently working on **App Development and Machine Learning**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **App Development**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **Bayes Optimization**
-
-- 💬 Ask me about **VAE, Bayesian Method of ML**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **vkaushik1411@gmail.com**
 
