@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Kaushik</h1>
-<h3 align="center">A ML and Deep Learning Enthusiast</h3>
+<h3 align="center">An Addict Of Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevi5&label=Profile%20views&color=0e75b6&style=flat" alt="kevi5" /> </p>
 
