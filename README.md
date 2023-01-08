@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevi5&label=Profile%20views&color=0e75b6&style=flat" alt="kevi5" /> </p>
 
-- 🔭 I’m currently working on **App Development and Machine Learning**
+- 🔭 I’m currently working on *Machine Learning**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
