@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vivek Kaushik</h1>
-<h3 align="center">A Machine Learning Addict</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevi5&label=Profile%20views&color=0e75b6&style=flat" alt="kevi5" /> </p>
 
-- 🔭 I’m currently working on *Machine Learning**
+- 🔭 I’m currently working on *Flutter*
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 💬 Ask me about **Machine Learning or Flutter**
 
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **vivek.kaushik.19031@iitgoa.ac.in**
+- 📫 How to reach me **vkaushik1411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
